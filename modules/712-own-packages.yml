@@ -5,4 +5,4 @@ source:
   - gparted
   - libfuse2t64
   - usbutils
-
+  - evince
