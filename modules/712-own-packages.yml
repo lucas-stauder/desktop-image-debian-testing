@@ -6,3 +6,4 @@ source:
   - libfuse2t64
   - usbutils
   - evince
+  - shotwell
